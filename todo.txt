@@ -1,0 +1,3 @@
+reposicionar o player de acordo com a direcao de onde ele veio;
+usar a spritesheet;
+encapsular o drawmap();
